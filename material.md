@@ -44,3 +44,15 @@ Lecture 3: **From Monte Carlo to Frequentism**
 Lab2: **Frequentism, Bootstrap, and MLE**
 
 [Material](lectures/lab2.html)
+
+---
+
+### Week 3
+
+Lecture 4: **MLE, Sampling, and Learning**
+
+[Slides and Notes](lectures/lecture4.html)
+
+Lecture 5: **Regression, AIC, Info. Theory**
+
+[Slides and Notes](lectures/lecture5.html)
