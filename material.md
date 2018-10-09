@@ -81,6 +81,23 @@ Lab 4: **Bayesian Quantities in the Globe Model**
 
 ### Week 5
 
-Lecture 8: **Bayes and Sampling"
+Lecture 8: **Bayes and Sampling**
 
 [Slides and Notes](lectures/lecture8.html)
+
+Lecture 9: **Bayes and Sampling**
+
+[Slides and Notes](lectures/lecture9.html)
+
+Lab 5: **Logistic Regression and Sundry Bayesian**
+
+[Material](lectures/lab5.html)
+
+---
+
+### Week 6
+
+Lecture 10: **Sampling and Gradient Descent**
+
+[Slides and Notes](lectures/lecture10.html)
+
