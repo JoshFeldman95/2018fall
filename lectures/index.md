@@ -20,3 +20,5 @@ layout: "default"
 - [Lab 5](lab5.html): Logistic Regression and Sundry Bayesian
 - [Lecture 10](lecture10.html): Sampling and Gradient Descent
 - [Lab 6](lab6.html): Sampling and PyTorch
+- [Lecture 11](lecture11.html): Gradient Descent and Neural Networks
+- [Lecture 12](lecture12.html): Non Linear Approximation to Classification
