@@ -22,3 +22,10 @@ layout: "default"
 - [Lab 6](lab6.html): Sampling and PyTorch
 - [Lecture 11](lecture11.html): Gradient Descent and Neural Networks
 - [Lecture 12](lecture12.html): Non Linear Approximation to Classification
+- [Lab 7] still to come
+- [Lecture 13](lecture13.html): Classification, Mixtures, and EM
+- [Lecture 14](lecture14.html): EM and Hierarchcal models
+- [Lab 8](lab8.html): EM and Hierarchicals
+- [Lecture 15](lecture15.html): MCMC
+- [Lecture 16](lecture16.html): MCMC and Gibbs
+- [Lab 9](lab9.html): Sampling and pymc3
